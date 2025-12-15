@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "Topic": "React",
+        "description": "React is an open-source JavaScript library for building user interfaces (UIs) for web and mobile applications. Developed by Facebook/Meta, it allows developers to create fast, interactive, and dynamic user experiences usin"
+    },
+    {
+        "id": 2,
+        "Topic": "React-dom",
+        "description": "React Router is a library that provides routing capabilities for React applications.Routing means handling navigation between different views.React Router is the standard routing library for React applications. It enables you to:"
+    }
+]
